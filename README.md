@@ -4,7 +4,7 @@
 <li>JavaScript</li>
 <li>Chakra:UI & Material UI</li>
 <li>NPM Axios Router Html Css Context</li>
-<li>Lannding Page</li>
+<li>Lannding Page Each User Serpate Data ON UserDetail Page </li>
 <li>Filter By Gender Ascending Decensing Order</li>
 <li>Pagination</li>
 <li>All Screen Size Addaptable</li>
