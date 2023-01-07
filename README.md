@@ -13,3 +13,4 @@
 <img src="https://i.ibb.co/gdVn31m/Screenshot-473.png" alt="Screenshot-473" border="0">
   
   <h4>Pagination </h4>
+  <img src="https://i.ibb.co/16wzr5C/Screenshot-478.png" alt="Screenshot-478" border="0">
