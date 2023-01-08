@@ -1,6 +1,5 @@
 <h1>Features & Functionality & Tech Stacks</h1>
-<ol>
-<li>React.js</li>
+<ol><li>React.js</li>
 <li>JavaScript</li>
 <li>Chakra:UI & Material UI</li>
 <li>NPM Axios Router Html Css Context</li>
