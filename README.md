@@ -6,8 +6,7 @@
 <li>Lannding Page Each User Serpate Data ON UserDetail Page </li>
 <li>Filter By Gender Ascending Decensing Order</li>
 <li>Pagination</li>
-<li>All Screen Size Addaptable</li>
-<ol>
+  <li>All Screen Size Addaptable</li></ol>
   <h4> On Click Data Fetching </h4>
 <img src="https://i.ibb.co/gdVn31m/Screenshot-473.png" alt="Screenshot-473" border="0">
   
