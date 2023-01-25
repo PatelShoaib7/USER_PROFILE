@@ -43,7 +43,6 @@ export const UserDetails = () => {
   useEffect(()=>{
     singal_user_data()
   },[])
-
   return (
     <div className={classes.container}>
           <div  className={classes.sideBar}>   
